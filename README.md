@@ -1,8 +1,8 @@
 # Chrome-Extension
  {
-    "name": "My Extension",
-    "version": "2.1",
-    "description": "Gets information from Google.",
+    "name": "Calculator",
+    "update": "2.1",
+    "description": "helps you with math!",
     "icons": {
       "128": "icon_16.png",
       "128": "icon_32.png",
