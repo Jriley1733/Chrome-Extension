@@ -19,3 +19,4 @@
       "default_popup": "popup.html"
     }
   }
+submit50
